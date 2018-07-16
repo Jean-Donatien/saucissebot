@@ -75,7 +75,7 @@ client.on('message', message => {
   }
 });
 
-client.login('MzY0MDQ4NjkwNTcyMjk2MTk0.DeGNrw.5sX0_b_J7NV8zpugqlvjjgjf_H0');
+client.login('');
 
 
 /*"```Nom: " + message.author.username + "(Bot :" + message.author.bot + ") \nCréé le: " + message.author.createdAt + "  \n" + "Status: " + message.author.presence.status +
